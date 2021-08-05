@@ -1,0 +1,11 @@
+.header{
+    border:2px solid blue;
+    background-color: black;
+
+}
+.header p,h1,a{
+    color: white;
+}
+.item ul,li,p{
+    color: blue;
+}
